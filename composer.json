@@ -1,0 +1,30 @@
+{
+    "name": "prolic/humus-neo4j-ogm-module",
+    "description": "Zend Framework 2 Module that provides Neo4j OGM functionality",
+    "type": "library",
+    "keywords": [
+        "humus",
+        "ogm",
+        "neo4j",
+        "module",
+        "zf2"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sascha-Oliver Prolic",
+            "email": "saschaprolic@googlemail.com",
+            "homepage": "http://www.sasaprolic.com/"
+        },
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "doctrine/doctrine-module": "0.*",
+        "zendframework/zendframework": "2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "HumusNeo4jOGMModule\\": "src/"
+        }
+    },
+}
