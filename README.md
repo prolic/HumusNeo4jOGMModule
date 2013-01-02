@@ -22,7 +22,7 @@ Installation of this module uses composer. For composer documentation, please re
 
      ```json
      {
-         "minimum-stability": "alpha",
+         "minimum-stability": "dev",
          "require": {
              "prolic/humus-neo4j-ogm-module": "dev-master"
          }
