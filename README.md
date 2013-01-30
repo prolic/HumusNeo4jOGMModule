@@ -5,6 +5,9 @@ quickly and easily. The following features are intended to work out of the box:
 
   - Neo4j support
   - Multiple entity managers
+  
+## Current status
+pre-alpha, currently there is no big work done on this.  
 
 ## Requirements
 [Zend Framework 2 Application Skeleton](http://www.github.com/zendframework/ZendSkeletonApplication) (or compatible
