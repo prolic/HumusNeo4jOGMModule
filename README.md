@@ -1,5 +1,8 @@
 # Humus Neo4j Module for Zend Framework 2
 
+[![Total Downloads](https://poser.pugx.org/prolic/humus-neo4j-ogm-module/downloads.png)](https://packagist.org/packages/prolic/humus-neo4j-ogm-module)
+[![Latest Stable Version](https://poser.pugx.org/prolic/humus-neo4j-ogm-module/v/stable.png)](https://packagist.org/packages/prolic/humus-neo4j-ogm-module)
+
 This module integrates Neo4j-PHP-OGM with Zend Framework 2
 quickly and easily. The following features are intended to work out of the box:
 
