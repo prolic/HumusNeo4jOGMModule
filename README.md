@@ -40,7 +40,7 @@ Installation of this module uses composer. For composer documentation, please re
   5. open `my/project/directory/configs/application.config.php` and add following keys to your `modules` (in this order)
 
      ```php
-     'HumusNeo4jOGMMOdule',
+     'HumusNeo4jOGMModule',
      ```
 
   6. copy `vendor/prolic/humus-neo4j-ogm-module/config/module.humus-neo4j-ogm.local.php.dist` into your application's
